@@ -1,5 +1,5 @@
 # EXIF Check API 🖼
-Simple JavaScript/Node.js API for extracting EXIF data from an image.
+Simple JavaScript/Node.js API for extracting EXIF data from a JPG image.
 
 ## Usage
 
