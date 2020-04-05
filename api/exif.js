@@ -1,7 +1,6 @@
 const axios = require('axios');
 const ExifImage = require('exif').ExifImage;
 
-
 module.exports = async (req, res) => {
   const { url } = req.query
 
