@@ -9,7 +9,7 @@
   "author": "Mike Coutermarsh <coutermarsh.mike@gmail.com> (https://mikecoutermarsh.com)",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "exif": "^0.6.0"
   }
 }
